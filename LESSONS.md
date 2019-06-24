@@ -1,4 +1,4 @@
-# What I learned building cornhold boards
+# What I learned building cornhole boards
 
 This project's goal was efficiency and speed. The design was simple: a rectangle frame, rectangle board, and legs that angled to raise the board exactly 12".
 
