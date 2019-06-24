@@ -8,4 +8,4 @@ The frame and legs will be made out of 2x4s. The top will be 1/2" sanded plywood
 
 The finish will be spray paint and multiple coats of PolyAcrylic to keep the shine down. 
 
-A router template will be needed to cut a perfect 6" circle. The local library has a makerspace with a laser cutter. This will be used to cut out a template from 1/4" balsa wood.
+A router template will be needed to cut a perfect 6" circle. 
