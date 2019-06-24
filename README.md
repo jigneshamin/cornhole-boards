@@ -6,6 +6,6 @@ This build was a donation for Big Brothers Big Sisters. Six boards (3 sets) were
 ## Materials
 The frame and legs will be made out of 2x4s. The top will be 1/2" sanded plywood. And, the fastners to hold the legs in place will be lag bolts, washers, and wing nuts. 
 
-The finish will be spray paint and multiple coats of PolyAcrylic to keep the shine down. 
+The finish will be spray paint and multiple coats of Polyacrylic to keep the shine down. 
 
 A router template will be needed to cut a perfect 6" circle. 
